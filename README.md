@@ -1,4 +1,4 @@
-### Testing the model on 300 frames and stiched those frames into a single video. Check it out::
+### Testing the model on 300 frames and stitched those frames into a single video. Check it out::
   https://youtu.be/cq_YnqT9YLI?si=8mMgwOHpZfZOUDrL
   
 
