@@ -69,3 +69,7 @@ Implement a dedicated Re-ID Feature Gallery to store appearance embeddings of pe
 
 
 
+Check out: 
+https://kaggle.com/competitions/ai-multi-domain-hackathon/writeups/person-re-id-with-yolov8m-and-bot-sort-for-dynamic
+
+
